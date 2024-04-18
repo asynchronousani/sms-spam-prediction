@@ -44,7 +44,7 @@ The project uses a labeled dataset containing SMS messages, with each message la
 ![Spam Message Prediction](images/Spam.jpg)
 
 ### Not Spam Message Prediction
-![Not Spam Message Prediction](images/Not Spam.jpg)
+![Not Spam Message Prediction](images/Not_Spam.jpg)
 
 ## Contributors 👥
 
