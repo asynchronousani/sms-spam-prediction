@@ -18,13 +18,19 @@ git clone https://github.com/asynchronousani/sms-spam-prediction.git
 cd sms-spam-prediction
 ```
 
-3. Run the Streamlit application:
+3. Install the required dependencies. It's recommended to use a virtual environment:
+
+```bash
+pip install -r requirements.txt
+```
+   
+4. Run the Streamlit application:
 
 ```bash
 streamlit run app.py
 ```
 
-4. Access the application in your browser at `http://localhost:8501`.
+5. Access the application in your browser at `http://localhost:8501`.
 
 ## Usage ℹ️
 
@@ -44,8 +50,4 @@ The project uses a labeled dataset containing SMS messages, with each message la
 ![Spam Message Prediction](images/Spam.jpg)
 
 ### Not Spam Message Prediction
-![Not Spam Message Prediction](images/Not_Spam.jpg)
-
-## Contributors 👥
-
-- Anirudh Varshney
+![Not Spam Message Prediction](images/NotSpam.jpg)
