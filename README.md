@@ -38,6 +38,14 @@ This project utilizes the Random Forest algorithm for its predictive modeling. R
 
 The project uses a labeled dataset containing SMS messages, with each message labeled as either "spam" or "ham" (not spam). The dataset is split into training and testing sets to train and evaluate the performance of the model.
 
+## Test Results 📊
+
+### Spam Message Prediction
+![Spam Message Prediction](images/Spam.jpg)
+
+### Not Spam Message Prediction
+![Not Spam Message Prediction](images/Not Spam.jpg)
+
 ## Contributors 👥
 
 - Anirudh Varshney
