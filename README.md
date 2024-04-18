@@ -1,4 +1,3 @@
-```markdown
 # SMS Spam Prediction Project 📱💬
 
 This project is aimed at predicting whether an SMS message is spam or not using the Random Forest algorithm. The project includes a Streamlit web application for easy interaction and visualization of the prediction results.
@@ -19,19 +18,13 @@ git clone https://github.com/asynchronousani/sms-spam-prediction.git
 cd sms-spam-prediction
 ```
 
-3. Install the required dependencies. It's recommended to use a virtual environment:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the Streamlit application:
+3. Run the Streamlit application:
 
 ```bash
 streamlit run app.py
 ```
 
-5. Access the application in your browser at `http://localhost:8501`.
+4. Access the application in your browser at `http://localhost:8501`.
 
 ## Usage ℹ️
 
