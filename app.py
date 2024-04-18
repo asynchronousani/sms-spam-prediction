@@ -32,8 +32,8 @@ def transform_text(text):
 
     return " ".join(y)
 
-tfidf = pickle.load(open('C:/Users/Anirudh128/Desktop/Projects/Machine Learning Projects/SMS Spam Prediction System/vectorizer.pkl','rb'))
-model = pickle.load(open('C:/Users/Anirudh128/Desktop/Projects/Machine Learning Projects/SMS Spam Prediction System/model.pkl','rb'))
+tfidf = pickle.load(open('C:/Users/Anirudh128/Desktop/Projects/Machine Learning Projects/sms-spam-prediction/vectorizer.pkl','rb'))
+model = pickle.load(open('C:/Users/Anirudh128/Desktop/Projects/Machine Learning Projects/sms-spam-prediction/model.pkl','rb'))
 
 st.title("SMS Spam Prediction using ML :incoming_envelope:")
 
