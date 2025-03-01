@@ -54,6 +54,3 @@ The project uses a labeled dataset containing SMS messages, with each message la
 
 ## **Contributing 🤝:**
 Contributions to the project are welcome! Whether it's improving the model's performance, adding new features, or optimizing the code, feel free to submit pull requests.
-
-## **Credits 🙏:**
-This project was developed by Anirudh Varshney.
